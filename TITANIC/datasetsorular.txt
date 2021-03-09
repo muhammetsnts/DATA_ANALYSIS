@@ -1,0 +1,11 @@
+1. ölenlerin cinsiyetlere göre daðýlýmý +
+2. ölenlerin yaþ aralýðý +
+3. erkeklerden ölenlerin yaþlarý +
+4. çocuklarýn ölüm oraný +
+5. ölenlerin sýnýflara göre daðýlýmý+
+6. ölenlerin limanlara göre daðýlýmý+
+8. Erkeklerde ve kadýnlarda ölüm oraný nedir? +
+
+BU SORULAR ÝSTATÝSTÝK SORUSU.CHÝ-SQUARE YAPILABÝLÝR.
+9. Sýnýf-liman, sýnýf-ölüm, liman-ölüm ve varsa liman-ölüm-sýnýf korelasyonlarý ayrý ayrý incelenmeli
+7. ölüm-yaþ, ölüm-cinsiyet korelasyonu
